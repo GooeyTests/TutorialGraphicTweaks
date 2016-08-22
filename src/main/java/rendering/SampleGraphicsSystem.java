@@ -94,7 +94,7 @@ public class SampleGraphicsSystem extends BaseComponentSystem {
         Node bloomPassesNode = nodeFactory.createInstance(BloomPassesNode.class);
         Node blurPassesNode = nodeFactory.createInstance(BlurPassesNode.class);
 
-        // These are our modules' custom nodes.
+        // These are our module's custom nodes.
         Node sampleNode = nodeFactory.createInstance(SampleNode.class);
         Node finalNode = nodeFactory.createInstance(FinalNode.class);
 
