@@ -1,0 +1,9 @@
+{
+    "id" : "TutorialGraphicTweaks",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Taha Dogan Gunes",
+    "displayName" : "TutorialGraphicTweaks",
+    "description" : "Inverts colors :-)",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
